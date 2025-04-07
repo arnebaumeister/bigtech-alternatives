@@ -36,8 +36,10 @@ Inspirationen: [https://european-alternatives.eu](https://european-alternatives.
 # OS, App Store
 ### OS x86 Desktop PC/Notebook
 - Ubuntu (easy as shit, auch für nicht-Nerds, läuft wohl auf jedem Rechner)
+- Linux Mint
 ### OS Arm Smartphone Android
 - GrapheneOS (Google Pixel Reihe)
+- /e/OS (z.B. auf Fairphone: <https://support.fairphone.com/hc/en-us/articles/9979154556817-Google-free-Android>)
 ### OS Arm Chromebook
 - Ubuntu? (<https://cdimage.ubuntu.com/noble/daily-live/current/>)
 ### Anwendungen Android
