@@ -8,129 +8,136 @@ Bitte gerne mit eigenen Ideen ergänzen! In Klammern gerne Begründungen hinter 
 Inspirationen: [https://european-alternatives.eu](https://european-alternatives.eu), ...
 
 # Surfen
-## Browser
+### Browser
 - Firefox
-## Kennwörter
+### Kennwörter
 - Firefox Sync
-## Link-Sammlung
+### Link-Sammlung
 - Firefox Sync
-## Suchmaschine
+### Suchmaschine
 - Ecosia
 - DuckDuckGo
-## VPN
+### VPN
  - Proton VPN
  - Mullvad VPN (5€/Monat, auf bis zu 5 Geräten nutzbar)
-## KI-Assistent
+### KI-Assistent
 - duck ai (mehrere Modelle ohne Tracking nutzbar)
 - Mistral AI - Le Chat
 - Ecosia AI Chat
 - OpenEuroLLM? (noch nicht verfügbar)
 - OpenGPT-X?  (noch nicht verfügbar)
-## Übersetzer
+### Übersetzer
  DeepL
-## Zahlungen
+### Zahlungen
 - vorhandene Kreditkarte/Debitkarte (ohne Zwischendienstleister wie z.B. PayPal)
 - Virtual Credit Card (VCC)?
 
+
 # OS, App Store
-## OS x86 Desktop PC/Notebook
+### OS x86 Desktop PC/Notebook
 - Ubuntu (easy as shit, auch für nicht-Nerds, läuft wohl auf jedem Rechner)
-## OS Arm Smartphone Android
+### OS Arm Smartphone Android
 - GrapheneOS (Google Pixel Reihe)
-## OS Arm Chromebook
+### OS Arm Chromebook
 - Ubuntu? (<https://cdimage.ubuntu.com/noble/daily-live/current/>)
-## Anwendungen Android
+### Anwendungen Android
 - F-Droid (nur Open-Source)
 - Aurora Store (anonym, ohne Google-Account)
-## OS Armbanduhren
+### OS Armbanduhren
 - nur hardening der Einstellungen möglich?
-## OS Assistenten
+### OS Assistenten
 - OpenVoiceOS?
 
+
 # Speicher
-## Online Speicher Dienstleister für NextCloud
+### Online Speicher Dienstleister für NextCloud
 - Hetzner Shared Storage NX11
-## Online Foto Backup
+### Online Foto Backup
 - NextCloud App
-## Linux PC Backup
+### Linux PC Backup
 - Restic?
 - Deja Dup?
 - Timeshift?
-## Android Smartphone Backup
+### Android Smartphone Backup
 - ?
 
 
 # Organisation
-## Kalender Android
+### Kalender Android
 - Etar + DAVx5 + ICSx5 (via Nextcloud Kalender)
-## Notizen
+### Notizen
 - Nextcloud Notizen
-## Aufgaben
+### Aufgaben
 - Nextcloud Deck
 
+
 # Kommunikation
-## Telefonbuch/Kontakte Android
+### Telefonbuch/Kontakte Android
 - DAVx5 + NextCloud
 - Proton Contacts (noch nicht verfügbar)
-## E-Mail
+### E-Mail
 - Proton Mail
-## Messenger
+### Messenger
 - Threema
 - Signal (eher unsicher, siehe z.B. https://www.counterpunch.org/2025/03/07/the-revolution-will-not-be-signaled/
 - matrix.org via Element Client
 
+
 # Unterwegs
-## Navigation Android
+### Navigation Android
 - OsmAnd+ (via F-Droid, App ist aber umständlich zu konfigurieren und zu nutzen)
 - HERE WeGo
 - ADAC Drive
-## Navigation Android Auto
+### Navigation Android Auto
 - HERE WeGo
 - ADAC Drive
 - OsmAnd+ (nur bei Kauf via Play Store)
-## Karten generell PC
+### Karten generell PC
 - OpenStreetMap.org
 - ADAC Drive (Urlaub, Wohnwagen)
-## Karten mit Höhenangaben
+### Karten mit Höhenangaben
 - OpenStreetMap (Layer CyclOSM / Topo..)
 - OsmAnd+
-## Lieblingsorte
+### Lieblingsorte
 - OsmAnd+ (GPX Import/Export, Sync nur über Cloud-Tarif)
 - NextCloud Maps?
-## Orte einmalig teilen (anwendungsübergreifend)
+### Orte einmalig teilen (anwendungsübergreifend)
 - OsmAnd+ (nutzt auch pure Geo URIs)
-## Orte/Listen dauerhaft teilen und gemeinsam bearbeiten (z.B. Urlaubsplanung)
+### Orte/Listen dauerhaft teilen und gemeinsam bearbeiten (z.B. Urlaubsplanung)
 - ???
-## Live-Standort teilen (dauerhaft, nicht öffentlich, z.B. für Familie)
+### Live-Standort teilen (dauerhaft, nicht öffentlich, z.B. für Familie)
 - Home Assistant - Standorte (via Home Assistant App)
 
+
 # Zu Hause
-## Heimautomation
+### Heimautomation
 - Home Assistant OS als VM + Zigbee Stick (Connect ZBT-1)
-## Virtualisierung
+### Virtualisierung
 - ProxMox? (inkl Backup-Lösung für VMs)
 
+
 # Medien
-## E-Book Reader
+### E-Book Reader
 - PocketBook? (z.B. Verse / Verse Pro)
-## E-Book Verleih
+### E-Book Verleih
 - on-leihe
-## Musik-Streaming
+### Musik-Streaming
 - Spotify
-## Videos
+### Videos
 - Youtube? (nicht angemeldet, deaktivierter Suchverlauf, etc)
-## TV-Streaming (auf Google TV Stick)
+### TV-Streaming (auf Google TV Stick)
 - ?
-## TV-Streaming Plattformen
+### TV-Streaming Plattformen
 - ?
 
+
 # Sicherheit
-## Sicherheitskamera
+### Sicherheitskamera
 - ?
-## Familiensicherheit
+### Familiensicherheit
 - nextdns.io?
 - openDNS familyshield?
-## verlorene Geräte orten und zurücksetzen
+### verlorene Geräte orten und zurücksetzen
 - OSS FMD
-# Bluetooth Tracker
+### Bluetooth Tracker
 - BLE Radar?
