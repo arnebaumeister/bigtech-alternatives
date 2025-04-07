@@ -27,7 +27,7 @@ Inspirationen: [https://european-alternatives.eu](https://european-alternatives.
 - OpenEuroLLM? (noch nicht verfügbar)
 - OpenGPT-X?  (noch nicht verfügbar)
 ### Übersetzer
- DeepL
+- DeepL
 ### Zahlungen
 - vorhandene Kreditkarte/Debitkarte (ohne Zwischendienstleister wie z.B. PayPal)
 - Virtual Credit Card (VCC)?
@@ -69,6 +69,7 @@ Inspirationen: [https://european-alternatives.eu](https://european-alternatives.
 - Nextcloud Notizen
 ### Aufgaben
 - Nextcloud Deck
+- Vikunja
 
 
 # Kommunikation
