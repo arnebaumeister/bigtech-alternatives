@@ -5,7 +5,7 @@ Du findest hier eine Liste von möglichen Alternativen zu den bisher üblicherwe
 
 Bitte gerne mit eigenen Ideen ergänzen! In Klammern gerne Begründungen hinter die Alternative schreiben. Fragezeichen stehen für noch nicht selbst ausprobierte Ideen.
 
-Inspirationen: [https://european-alternatives.eu](https://european-alternatives.eu), ...
+Inspirationen: [https://european-alternatives.eu](https://european-alternatives.eu), [https://openalternative.co/alternatives](https://openalternative.co/alternatives), ...
 
 # Surfen
 ### Browser
@@ -89,9 +89,11 @@ Inspirationen: [https://european-alternatives.eu](https://european-alternatives.
 # Unterwegs
 ### Navigation Android
 - OsmAnd+ (via F-Droid, App ist aber umständlich zu konfigurieren und zu nutzen)
+- TomTom AmiGO
 - HERE WeGo
 - ADAC Drive
 ### Navigation Android Auto
+- TomTom AmiGO
 - HERE WeGo
 - ADAC Drive
 - OsmAnd+ (nur bei Kauf via Play Store)
