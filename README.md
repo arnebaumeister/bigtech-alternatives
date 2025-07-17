@@ -127,7 +127,7 @@ Inspirationen: [https://european-alternatives.eu](https://european-alternatives.
 ### E-Book Verleih
 - on-leihe
 ### Musik-Streaming
-- Spotify
+- Deezer, Spotify
 ### Videos
 - Youtube? (nicht angemeldet, deaktivierter Suchverlauf, etc)
 ### TV-Streaming (auf Google TV Stick)
