@@ -143,7 +143,7 @@ Inspirationen: [https://european-alternatives.eu](https://european-alternatives.
 - ?
 ### Familiensicherheit
 - nextdns.io?
-- openDNS familyshield?
+- jusprog?
 - timelimit.io?
 ### verlorene Geräte orten und zurücksetzen
 - OSS FMD
