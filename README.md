@@ -11,7 +11,7 @@ Inspirationen: [https://european-alternatives.eu](https://european-alternatives.
 ### Browser
 - Firefox
 ### Kennwörter
-- Firefox Sync
+- Proton Pass, Firefox Sync
 ### Link-Sammlung
 - Firefox Sync
 ### Suchmaschine
@@ -89,6 +89,7 @@ Inspirationen: [https://european-alternatives.eu](https://european-alternatives.
 # Unterwegs
 ### Navigation Android
 - OsmAnd+ (via F-Droid, App ist aber umständlich zu konfigurieren und zu nutzen)
+- Organic Maps
 - TomTom AmiGO
 - HERE WeGo
 - ADAC Drive
@@ -96,6 +97,7 @@ Inspirationen: [https://european-alternatives.eu](https://european-alternatives.
 - TomTom AmiGO
 - HERE WeGo
 - ADAC Drive
+- Organic Maps (nur bei Installation via Play Store)
 - OsmAnd+ (nur bei Kauf via Play Store)
 ### Karten generell PC
 - OpenStreetMap.org
@@ -118,7 +120,7 @@ Inspirationen: [https://european-alternatives.eu](https://european-alternatives.
 ### Heimautomation
 - Home Assistant OS als VM + Zigbee Stick (Connect ZBT-1)
 ### Virtualisierung
-- ProxMox? (inkl Backup-Lösung für VMs)
+- ProxMox (inkl Backup-Lösung für VMs)
 
 
 # Medien
